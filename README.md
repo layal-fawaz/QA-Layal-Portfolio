@@ -50,7 +50,7 @@ Sample defect reports demonstrating proper documentation with severity classific
 - Risk-Based Testing
 
 ## 📫 Contact
-- **LinkedIn:** [linkedin.com/in/layal-eee](https://www.linkedin.com/in/layal-fawaz)
+- **LinkedIn:** [linkedin.com/in/layal-fawaz](https://www.linkedin.com/in/layal-fawaz)
 - **Email:** layalfrh2016@gmail.com
 - **GitHub:** [github.com/layal-fawaz](https://github.com/layal-fawaz)
 
