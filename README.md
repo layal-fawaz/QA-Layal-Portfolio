@@ -57,7 +57,3 @@ Sample defect reports demonstrating proper documentation with severity classific
 ---
 
 *This portfolio is continuously updated with new projects and learning experiences.*
-
-## 📫 Contact
-- LinkedIn: [Your Profile]
-- Email: [Your Email]
