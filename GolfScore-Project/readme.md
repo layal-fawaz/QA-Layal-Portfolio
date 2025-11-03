@@ -1,6 +1,6 @@
-# GolfScore Test Plan
+# 🏌️ GolfScore Test Plan
 
-## Overview
+## 📋 Overview
 
 This document contains a comprehensive **Test Plan** for **GolfScore Release 1.1**, a command-line application designed to generate reports for golf tournament results.
 
@@ -11,18 +11,18 @@ This document contains a comprehensive **Test Plan** for **GolfScore Release 1.1
 
 ---
 
-## What's Inside the PDF
+## 📄 What's Inside the PDF
 
-### 1.0 Introduction
+### 1️⃣ Introduction
 - **1.1 Objective**: Purpose and scope of the test plan
 - **1.2 Project Description**: Overview of GolfScore application, key features, input/output specifications
 - **1.3 Process Tailoring**: Testing types included (Functional, Boundary, Negative, Compatibility, Performance) and excluded (GUI, Network)
 
-### 2.0 Assumptions/Dependencies
+### 2️⃣ Assumptions/Dependencies
 - **Assumptions**: Tester access, test data availability, unit testing completion, regression testing approach
 - **Dependencies**: Code completion date (1/12/2025), development support, test environment setup, defect tracking system access
 
-### 3.0 Test Requirements
+### 3️⃣ Test Requirements
 - **Features to be tested** (In Scope):
   - Command Line Interface (filename parameters, output directory, help option, report generation)
   - Input file processing (1-5 courses, 2-12 golfers, data validation)
@@ -74,4 +74,48 @@ List of potential risks and their mitigation strategies:
 ### 8.0 Metrics
 - **Test Progress Metrics**: Total test cases, executed, passed, failed, execution progress percentage
 - **Quality Metrics**: Pass percentage, defect removal efficiency, retest pass rate
-- **Defect Metrics**: Total defects, defects by severity (Blocker, Critical, Major, Minor), by priority (High, Medium, Low), by status (New, In Progress, Fixed,
+- **Defect Metrics**: Total defects, defects by severity (Blocker, Critical, Major, Minor), by priority (High, Medium, Low), by status (New, In Progress, Fixed, Verified, Closed, Rejected), defect density
+- **Schedule Metrics**: Planned vs actual variance, test execution rate
+- **Performance Metrics**: Processing time measurement
+
+### Appendix A - Detailed Resource Requirements
+- Test team structure and roles
+- Hardware requirements (minimum 2 PCs)
+- Software requirements
+- Training needs
+
+### Appendix B - Detailed Test Schedule
+- Phase-by-phase breakdown of all activities
+- Key milestones and deliverables
+- Critical dependencies with dates
+
+---
+
+## Testing Approach Summary
+
+**Testing Types Included:**
+- ✅ Functional Testing
+- ✅ Boundary Testing
+- ✅ Negative Testing
+- ✅ Compatibility Testing
+- ✅ Performance Testing
+
+**Testing Types Excluded:**
+- ❌ GUI Testing (no GUI exists)
+- ❌ Network Testing (not applicable)
+
+---
+
+## Key Success Criteria
+
+- 95%+ test pass rate
+- All critical/high-priority defects resolved
+- Processing time < 1 minute
+- Compatible with Windows 2000 through Windows 11
+- All three report types generated correctly
+
+---
+
+## Files in this Repository
+
+- `golfScore test plan.pdf` - Complete test plan document
