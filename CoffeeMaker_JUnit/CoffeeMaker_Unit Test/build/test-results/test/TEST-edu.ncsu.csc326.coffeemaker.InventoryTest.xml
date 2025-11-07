@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ncsu.csc326.coffeemaker.InventoryTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-11-07T17:31:42.821Z" hostname="DESKTOP-U17K2MA" time="0.156">
+  <properties/>
+  <testcase name="testEnoughIngredientsAllEnough" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.0"/>
+  <testcase name="testAddSugarNonNumeric" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.001"/>
+  <testcase name="testAddCoffeeInvalidUnit" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.011"/>
+  <testcase name="testAddMilk" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.009"/>
+  <testcase name="testUseIngredientsEnough" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.005"/>
+  <testcase name="testToString" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.009"/>
+  <testcase name="testAddChocolateInvalidUnit" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.0"/>
+  <testcase name="testAddMilkNonNumeric" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.006"/>
+  <testcase name="testSetAndGetMilk" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.003"/>
+  <testcase name="TestEnoughIngredients" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.001"/>
+  <testcase name="testAddCoffeeNonNumeric" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.0"/>
+  <testcase name="testAddCoffee" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.001"/>
+  <testcase name="testAddSugarBug" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.035"/>
+  <testcase name="testSetAndGetChocolate" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.002"/>
+  <testcase name="useIngredients" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.001"/>
+  <testcase name="testAddChocolate" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.004"/>
+  <testcase name="testAddMilkInvalidUnit" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.004"/>
+  <testcase name="testAddChocolateNonNumeric" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.001"/>
+  <testcase name="testSetChocolateIfLess0" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.002"/>
+  <testcase name="testSetCoffe" classname="edu.ncsu.csc326.coffeemaker.InventoryTest" time="0.001"/>
+  <system-out><![CDATA[BUG CONFIRMED: addSugar throws exception for valid positive input
+Expected: sugar should be 20
+Actual: Exception thrown - Units of sugar must be a positive integer
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

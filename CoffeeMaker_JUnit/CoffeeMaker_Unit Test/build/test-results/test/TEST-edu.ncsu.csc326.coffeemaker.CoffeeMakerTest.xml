@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" tests="32" skipped="0" failures="0" errors="0" timestamp="2025-11-07T17:31:42.609Z" hostname="DESKTOP-U17K2MA" time="0.166">
+  <properties/>
+  <testcase name="testAddEditDeleteWorkflow" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.009"/>
+  <testcase name="testMakeCoffeeInsufficientPayment" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.0"/>
+  <testcase name="testGetRecipesInitiallyEmpty" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testCheckInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testDeleteRecipeWithInvalidIndex" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.0"/>
+  <testcase name="testAddInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testAddRecipeCheckItExists" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.0"/>
+  <testcase name="testEditRecipeEmptySlot" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testAddRecipeToEmptyRecipeBook" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.0"/>
+  <testcase name="testAddInventoryException" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testDeleteRecipeThenAddNew" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testMakeCoffeeWithZeroPayment" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testAddNullRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testAddInventoryNegativeCoffee" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.003"/>
+  <testcase name="testInventoryAfterAddingIngredients" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testAddInventoryZeroValues" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.013"/>
+  <testcase name="testDeleteRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testMakeCoffeeInsufficientInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testMakeCoffeeInventoryUnchangedOnFailure" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testAddInventoryNonNumeric" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testEditRecipeInvalidIndex" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testDeleteRecipeEmptySlot" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.003"/>
+  <testcase name="testAddRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testAddMultipleRecipes" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testGetRecipesAfterAdding" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testEditRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testMakeCoffeeSuccessful" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.0"/>
+  <testcase name="testMakeCoffeeRecipeToPurchaseNotFound" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testDeleteRecipeWithNegativeIndex" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.006"/>
+  <testcase name="testMakeCoffeeExactPayment" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testMakeCoffeeWithNegativePayment" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testMakeCoffeeInventoryDecrements" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

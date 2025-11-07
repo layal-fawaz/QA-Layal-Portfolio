@@ -1,0 +1,3 @@
+#/CBUG CONFIRMED: addSugar throws exception for valid positive input
+#/Expected: sugar should be 20
+#/FActual: Exception thrown - Units of sugar must be a positive integer
