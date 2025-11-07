@@ -1,7 +1,7 @@
 # ☕ Coffee Maker Unit Testing Project
 
 ## 📋 Overview  
-This project contains **77 comprehensive JUnit 5 unit tests** for the Coffee Maker application.  
+This project contains **77 comprehensive JUnit 4 unit tests** for the Coffee Maker application.  
 As a **QA Engineer**, I validated **all core classes** for correct functionality, exception handling, and boundary conditions using **IntelliJ IDEA** and measured code coverage with **JaCoCo**.  
 
 Testing was performed on:  
