@@ -55,8 +55,10 @@ As a **QA Tester**, I validated all core classes for **correct functionality, ex
 2. Open a Terminal or PowerShell in the project directory.  
 3. Run the following command:  
 ```bash
-./gradlew clean test jacocoTestReport
-./build/reports/jacoco/test/html/index.html
+./gradlew clean test jacocoTestReport ```
+
+```bash
+./build/reports/jacoco/test/html/index.html ```
 
 🧠 Testing Approach
 
