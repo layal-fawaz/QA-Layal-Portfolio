@@ -16,22 +16,22 @@ As a **QA Tester**, I validated all core classes for **correct functionality, ex
 🧪 **Tested Classes & Focus**  
 
 1. **Recipe**  
-- Tested setters: Coffee, Milk, Sugar, Chocolate, Price  
-- Checked exception handling for invalid input  
-- Validated `equals()`, `hashCode()`, and `toString()`  
+   - Tested setters: Coffee, Milk, Sugar, Chocolate, Price  
+   - Checked exception handling for invalid input  
+   - Validated `equals()`, `hashCode()`, and `toString()`  
 
 2. **Inventory**  
-- Added units and validated negative/non-numeric inputs  
-- Checked `useIngredients()` and `enoughIngredients()`  
-- Verified inventory updates after operations  
+   - Added units and validated negative/non-numeric inputs  
+   - Checked `useIngredients()` and `enoughIngredients()`  
+   - Verified inventory updates after operations  
 
 3. **CoffeeMaker**  
-- Recipe management: add, edit, delete  
-- Making coffee: payment validation, inventory decrements, error handling  
+   - Recipe management: add, edit, delete  
+   - Making coffee: payment validation, inventory decrements, error handling  
 
 4. **RecipeBook**  
-- Adding, deleting, editing recipes  
-- Validated capacity limit (max 3 recipes)  
+   - Adding, deleting, editing recipes  
+   - Validated capacity limit (max 3 recipes)  
 
 ---
 
@@ -53,24 +53,7 @@ As a **QA Tester**, I validated all core classes for **correct functionality, ex
 
 1. Download the project from GitHub (either as a ZIP file or clone the repo).  
 2. Open a Terminal or PowerShell in the project directory.  
-3. Run the following command:  
-```bash
-./gradlew clean test jacocoTestReport ```
+3. Run the tests and generate the coverage report:
 
 ```bash
-./build/reports/jacoco/test/html/index.html ```
-
-🧠 Testing Approach
-
-Valid and invalid input tests
-
-Boundary and edge-case testing (zero, negative values)
-
-Exception handling verification
-
-High code coverage verification using JaCoCo
-
-👤 Author
-Layal Alhusseini – QA / Unit Testing
-
-📅 November 2025
+./gradlew clean test jacocoTestReport
