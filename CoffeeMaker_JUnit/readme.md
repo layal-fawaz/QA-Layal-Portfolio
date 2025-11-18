@@ -48,6 +48,7 @@ As a **QA Tester**, I validated all core classes for **correct functionality, ex
 ✅ **All 116 tests passed successfully**, ensuring correctness and stability of the application.
 
 ---
+
 ### ⚙️ How to Run & Generate Coverage Report
 
 1. Download the project from GitHub (either as a ZIP file or clone the repo).  
@@ -55,20 +56,19 @@ As a **QA Tester**, I validated all core classes for **correct functionality, ex
 3. Run the following command:  
 ```bash
 ./gradlew clean test jacocoTestReport
+./build/reports/jacoco/test/html/index.html
 
+🧠 Testing Approach
 
----
+Valid and invalid input tests
 
-🧠 **Testing Approach**  
-- Valid and invalid input tests  
-- Boundary and edge-case testing (zero, negative values)  
-- Exception handling verification  
-- High code coverage verification using JaCoCo  
+Boundary and edge-case testing (zero, negative values)
 
----
+Exception handling verification
 
-👤 **Author**  
-Layal Alhusseini – QA / Unit Testing  
+High code coverage verification using JaCoCo
 
-📅 **November 2025**
+👤 Author
+Layal Alhusseini – QA / Unit Testing
 
+📅 November 2025
