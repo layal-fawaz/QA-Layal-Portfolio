@@ -57,8 +57,27 @@ As a **QA Tester**, I validated all core classes for **correct functionality, ex
 
 ```bash
 ./gradlew clean test jacocoTestReport
-
+```
+```bash
 ./build/reports/jacoco/test/html/index.html
 ```
-ييي
-ي
+📄 Viewing the Coverage Report
+
+After running the commands, open the HTML report in your browser to see detailed code coverage metrics.
+
+You can navigate through classes, methods, and lines to check which parts of the code were tested.
+
+🧠 Testing Approach
+
+Valid and invalid input tests
+
+Boundary and edge-case testing (zero, negative values)
+
+Exception handling verification
+
+High code coverage verification using JaCoCo
+
+👤 Author
+Layal Alhusseini – QA / Unit Testing
+
+📅 November 2025
