@@ -3,7 +3,7 @@
 Welcome to my Quality Assurance portfolio! This repository showcases my testing skills, documentation, and projects.
 
 ## 👩‍💻 About Me
-- QA Engineer specializing in Manual and Automation Testing
+- QA Tester specializing in Manual and Automation Testing
 - Skills: Test Planning, Test Case Design, Bug Reporting, SDLC, Quality Documentation
 
 ## 📂 Portfolio Contents
