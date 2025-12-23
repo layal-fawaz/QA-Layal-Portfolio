@@ -1,18 +1,17 @@
-# Bug Report – System Testing
+# 🐞 Bug Report – System Testing
 
-## Overview
-This repository contains a **Bug Report** created during **System Testing** of a web application.  
-The purpose of this project is to document identified bugs clearly and systematically.
-
----
-
-## Testing Scope
-- **Testing Level:** System Testing
-- **Testing Type:** Manual Testing
+## 📌 Overview
+This repository contains a **Bug Report** for Buggy Cars Rating created during **System Testing** of a web application.
 
 ---
 
-## Bug Report Details
+## 🧪 Testing Scope
+- **Testing Level:** System Testing  
+- **Testing Type:** Manual Testing  
+
+---
+
+## 🐛 Bug Report Details
 Each bug includes:
 - Bug ID
 - Bug Title
@@ -24,23 +23,19 @@ Each bug includes:
 
 ---
 
-## Covered Areas
-- User profile validation
-- Password and input validation
-- Dropdown and form behavior
+## 📂 Covered Areas
+- Profile & input validation
+- Password validation
+- Dropdown behavior
 - Pagination logic
-- Comments and voting functionality
+- Comments & voting
 - UX/UI issues
 
 ---
 
-## Severity Levels
-- High
-- Medium
-- Low
+## 🚦 Severity Levels
+- 🔴 High  
+- 🟠 Medium  
+- 🟢 Low  
 
 ---
-
-
-## Author
-Layal
