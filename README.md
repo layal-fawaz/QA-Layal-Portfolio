@@ -53,6 +53,7 @@ Sample defect reports demonstrating proper documentation with severity classific
 - **LinkedIn:** [linkedin.com/in/layal-fawaz](https://www.linkedin.com/in/layal-fawaz)
 - **Email:** layalfrh2016@gmail.com
 - **GitHub:** [github.com/layal-fawaz](https://github.com/layal-fawaz)
+- **Portfolio:** [Layal's QA Portfolio](https://layals-qa-portfolio-fcb5c46b.base44.app/)
 
 ---
 
