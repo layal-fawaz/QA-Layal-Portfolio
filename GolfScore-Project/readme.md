@@ -37,7 +37,7 @@ This document contains a comprehensive **Test Plan** for **GolfScore Release 1.1
 
 ### 4.0 Test Tools
 - Windows Command Prompt
-- Text editors (Word, Google Docs, Notion)
+- Text editors (Word)
 - Timer for performance measurement
 - Windows OS for test environment
 - Defect tracker (Jira)
