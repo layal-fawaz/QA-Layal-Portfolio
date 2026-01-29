@@ -30,9 +30,11 @@ A set of structured test cases covering:
 - Basic UI validation
 
 Each test case includes:
-- Preconditions
-- Test steps
-- Expected results
+- Test Case ID
+- Title
+- Precondition
+- Steps
+- 	Expected Results
 
 ---
 
@@ -40,6 +42,7 @@ Each test case includes:
 - Manual Testing  
 - Black-Box Testing
 
+🖥️ Testing was performed on a local OpenCart environment (XAMPP)
 ---
 
 ## 📦 Outcome
