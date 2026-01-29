@@ -1,7 +1,5 @@
 # OpenCart – Manual QA Testing 📋🧪
 
----
-
 ## 📌 Project Overview
 This repository contains **manual testing documentation** for the OpenCart e-commerce website.  
 The work focuses on creating a **Test Plan** and **Test Cases** to validate core website functionalities using **Manual Black-Box Testing**.
